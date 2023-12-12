@@ -19,4 +19,4 @@ Please feel free to check out my work here, or visit my **[portfolio](https://ti
 You can also find me on [LinkedIn](https://www.linkedin.com/in/thstanton/) - come and say hello!
 
 **Currently working on:**
-Bruno Simon's Three.js Journey course
+Bruno Simon's [Three.js Journey](https://threejs-journey.com/) course
