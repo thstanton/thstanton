@@ -3,15 +3,13 @@ Hi there, I'm Tim 👋
 I'm a **Full Stack Software Engineer** based in 🇬🇧 **London** 🇬🇧.
 
 💻 **My Tech Stack:**
-- JavaScript, HTML, CSS
+- Node.js
 - React
 - Next.js
 - Vue.js
 - Express.js
-- Node.js
 - Python
 - Django
-- Django REST Framework
 - MongoDb and PostgreSQL
 - TailwindCSS
 
