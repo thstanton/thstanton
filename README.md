@@ -1,6 +1,6 @@
 Hi there, I'm Tim 👋
 
-I'm a **Junior Full Stack Software Engineer** based in 🇬🇧 **London** 🇬🇧.
+I'm a **Full Stack Software Engineer** based in 🇬🇧 **London** 🇬🇧.
 
 💻 **My Tech Stack:**
 - JavaScript, HTML, CSS
